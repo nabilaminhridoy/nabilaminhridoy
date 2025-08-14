@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nabilaminhridoy
-- 👀 I’m interested in html, C, C++, java, node
-- 🌱 I’m currently learning C & C++
+- 👀 I’m interested in html, C, C++, php, javascript, css, node
+- 🌱 I’m currently learning php & nods
 - 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me though email nabilaminhridoy@gmail.con
 
