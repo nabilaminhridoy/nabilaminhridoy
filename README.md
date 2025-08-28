@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nabilaminhridoy
-- 👀 I’m interested in html, C, C++, php, javascript, css, node
-- 🌱 I’m currently learning php & nods
-- 💞️ I’m looking to collaborate on web design
-- 📫 How to reach me though email nabilaminhridoy@gmail.con
+- 👀 I’m interested in MERN Stack & Full Stack Development
+- 🌱 I’m currently learning php & node.js
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me though email nabilaminhridoy@gmail.com
 
 <!---
 nabilaminhridoy/nabilaminhridoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
