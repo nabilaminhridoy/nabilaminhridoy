@@ -1,48 +1,23 @@
 # 👋 Hi, I'm Hridoy  
 
-🚀 **Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor**  
+**Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor**  
 
-I specialize in building scalable, high-performance web applications using **MERN Stack (MongoDB, Express.js, React.js, Node.js)** along with modern full-stack tools & technologies. Passionate about writing clean code, solving problems, and crafting user-friendly digital experiences.  
-
-
-## 💡 About Me  
-- 🌱 Currently exploring **Next.js, GraphQL, and Microservices**  
-- 🔭 Working on **eCommerce platforms, APIs & SaaS applications**  
-- 💬 Ask me about **MERN, REST APIs, Laravel, TailwindCSS, Docker, Cloud Deployments**  
-- 📫 Reach me at: **nabilaminhridoy@gmail.com**  
-- ⚡ Fun fact: I love learning new tech and contributing to **open-source projects**  
+I create scalable web apps using **MongoDB, Express, React, Node.js**, and modern full-stack tools.  
 
 
-## 🛠️ Tech Stack  
+## 💻 Tech Stack  
 
-### Frontend  
-- ⚛️ React.js | Next.js  
-- 🎨 Tailwind CSS | Bootstrap | Material UI  
-- ⚡ Redux | Context API | Zustand  
-
-### Backend  
-- 🚀 Node.js | Express.js | Laravel (PHP)  
-- 🔐 JWT | OAuth | Passport.js  
-
-### Database  
-- 🗄️ MongoDB | MySQL | PostgreSQL | Firebase  
-
-### Tools & DevOps  
-- 🐳 Docker | GitHub Actions | cPanel / Nginx / Apache  
-- ☁️ Vercel | Netlify | Render | DigitalOcean  
-- 📦 NPM | Yarn | Composer  
+**Frontend:** ⚛️ React.js | Next.js | Tailwind CSS | Material UI  
+**Backend:** 🚀 Node.js | Express.js | Laravel  
+**Database:** 🗄️ MongoDB | MySQL | PostgreSQL  
+**Tools:** 🐳 Docker | Git | Vercel | Netlify  
 
 
-## 📂 Featured Projects  
+## 📂 Projects  
 
-### 🛒 [E-Commerce Platform](#)  
-A full-featured **MERN stack e-commerce** with authentication, payments, cart & admin dashboard.  
-
-### 📊 [Analytics Dashboard](#)  
-Custom-built analytics dashboard using **React, Chart.js, Node.js, and MongoDB**.  
-
-### 🔗 [API Integrations](#)  
-Implemented secure REST APIs with **payment gateways, tracking pixels & third-party services**.  
+- **🛒 E-Commerce Platform** – MERN stack with authentication, cart & payments  
+- **📊 Analytics Dashboard** – React + Node.js dashboard with charts & APIs  
+- **🔗 API Integrations** – Payment gateways & server-side tracking  
 
 
 ## 📊 GitHub Stats  
@@ -51,15 +26,9 @@ Implemented secure REST APIs with **payment gateways, tracking pixels & third-pa
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaminhridoy&layout=compact&theme=tokyonight)
 
+## 📫 Connect  
 
-## 🤝 Let's Connect  
-
-- 🌐 Portfolio: [nabilaminhridoy.vercel.app](#)
-- 📘 Facebook: [facebook.com/nabilaminhridoy](#)  
-- 💬 WhatsApp: [wa.me/8801624647814](#)  
-- 💼 LinkedIn: [linkedin.com/in/nabilaminhridoy](#)  
-- 🐦 Twitter: [x.com/nabilaminhridoy](#)  
-- 📧 Email: nabilaminhridoy@gmail.com  
+[🌐 Portfolio](https://nabilaminhridoy.vercel.app) • [📘 Facebook](https://www.facebook.com/nabilaminhridoy) • [💬 WhatsApp](https://wa.me/8801624647814) • [💼 LinkedIn](https://www.linkedin.com/in/nabilaminhridoy) • [❌ X (Twitter)](https://www.X.com/nabilaminhridoy) • [🐱 GitHub](https://www.github.com/nabilaminhridoy) • [📧 Email](mailto:your.email@example.com)
 
 
-## ⭐️ From [Hridoy](https://github.com/nabilaminhridoy)  
+⭐ From [Hridoy](https://github.com/nabilaminhridoy)
