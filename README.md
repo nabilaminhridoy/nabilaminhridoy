@@ -4,7 +4,6 @@
 
 I specialize in building scalable, high-performance web applications using **MERN Stack (MongoDB, Express.js, React.js, Node.js)** along with modern full-stack tools & technologies. Passionate about writing clean code, solving problems, and crafting user-friendly digital experiences.  
 
----
 
 ## 💡 About Me  
 - 🌱 Currently exploring **Next.js, GraphQL, and Microservices**  
@@ -13,7 +12,6 @@ I specialize in building scalable, high-performance web applications using **MER
 - 📫 Reach me at: **nabilaminhridoy@gmail.com**  
 - ⚡ Fun fact: I love learning new tech and contributing to **open-source projects**  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -51,8 +49,9 @@ Implemented secure REST APIs with **payment gateways, tracking pixels & third-pa
 
 ## 📊 GitHub Stats  
 
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilaminhridoy&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaminhridoy&layout=compact&theme=tokyonight)  
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilaminhridoy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaminhridoy&layout=compact&theme=tokyonight)
 
 ---
 
