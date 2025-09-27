@@ -32,7 +32,6 @@ I specialize in building scalable, high-performance web applications using **MER
 - ☁️ Vercel | Netlify | Render | DigitalOcean  
 - 📦 NPM | Yarn | Composer  
 
----
 
 ## 📂 Featured Projects  
 
@@ -45,7 +44,6 @@ Custom-built analytics dashboard using **React, Chart.js, Node.js, and MongoDB**
 ### 🔗 [API Integrations](#)  
 Implemented secure REST APIs with **payment gateways, tracking pixels & third-party services**.  
 
----
 
 ## 📊 GitHub Stats  
 
@@ -53,7 +51,6 @@ Implemented secure REST APIs with **payment gateways, tracking pixels & third-pa
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaminhridoy&layout=compact&theme=tokyonight)
 
----
 
 ## 🤝 Let's Connect  
 
@@ -65,6 +62,4 @@ Implemented secure REST APIs with **payment gateways, tracking pixels & third-pa
 - 📧 Email: nabilaminhridoy@gmail.com  
 
 
----
-
-⭐️ From [Hridoy](https://github.com/nabilaminhridoy)  
+## ⭐️ From [Hridoy](https://github.com/nabilaminhridoy)  
